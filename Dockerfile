@@ -1,4 +1,4 @@
-FROM debian:latest
+FROM ubuntu:14.04
 
 MAINTAINER cloud.admin@builtdock.com
 
